@@ -29,7 +29,7 @@ Where:
 4. Adjust the "Rig Configuration" and "Specimen Properties" to observe real-time changes in $\eta$.
 
 ## Research Body
-**Lead Researcher:** Dr. Clifford Yeboah  
+**Lead Researcher:** Clifford Yeboah  
 **Institute:** The Yeboah Institute Research
 
 ## License
